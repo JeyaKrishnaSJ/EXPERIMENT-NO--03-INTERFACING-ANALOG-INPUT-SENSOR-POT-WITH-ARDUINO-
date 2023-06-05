@@ -67,7 +67,7 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
- 
+ ```
 int potPin=A5;
 int ledPin=2;
 
@@ -91,10 +91,7 @@ void loop()
     digitalWrite(2, LOW);
 }
 
-
-
-
-
+```
 
 
 
@@ -103,12 +100,6 @@ void loop()
 **
 ![Screenshot (86)](https://github.com/JeyaKrishnaSJ/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/118707091/fc196ada-5692-4524-9f54-c54e099f2865)
 ![Screenshot (88)](https://github.com/JeyaKrishnaSJ/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/118707091/3a3b65b9-1012-46ba-9b75-a98af77ee422)
-
-
-
-
-
-
 
 
 
